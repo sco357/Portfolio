@@ -161,8 +161,8 @@ ul {
 	padding-bottom: 20px;
 }
 .gif {
-	max-width: 315px;
-	max-height:236px;
+	width: 315px;
+	height:236px;
 	text-align: left;
 }
 .No {
