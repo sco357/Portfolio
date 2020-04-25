@@ -91,7 +91,7 @@ ul {
   padding: 136px;
   font-size: 30px;
   text-align: center;
-  background-image: url('PFol.png');
+  background-image: url('PFol.PNG');
   background-size: 100%;
 }
 .bxb{
@@ -112,7 +112,7 @@ ul {
   padding: 136px;
   font-size: 30px;
   text-align: center;
-  background-image: url('Yo.png');
+  background-image: url('Yo.PNG');
   background-size: 100%;
 
 }
@@ -124,7 +124,7 @@ ul {
   padding: 136px;
   font-size: 30px;
   text-align: center;
-  background-image: url('Ballz.png');
+  background-image: url('Ballz.PNG');
   background-size: 100%;
 }
 .bxb:hover{
