@@ -1,0 +1,265 @@
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #4E4E4E;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  margin-bottom: 0px;
+  width: 100%;
+  text-align: left: 
+}
+li {
+	float: left;
+}
+li a { display: block;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-size: 18px;
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+	background-color: #4E4E4E;
+	text-decoration: none;
+}
+body {
+	padding: 0px;
+	margin: 0px;
+}
+li a:hover:not(.active){
+	background: black;
+}
+header{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-family: 'Roboto', sans-serif;
+	background-size: 100%;
+	max-height: 1080px;
+} 
+footer {
+	padding: 0px;
+	background-color: #2471A3;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-bottom: 0px;
+}
+main {
+	padding: 0px
+}
+ul {
+	display: inline-block;
+}
+.active {
+  background: #2471A3;
+  	border-bottom:1px solid white;
+}
+.right {
+	float: right;
+}
+.Large {
+	font-size: 50px;
+	text-align: center;
+	font-style: 'Roboto', sans-serif;
+	color: white;	
+}
+.P{
+	text-align: center;
+	font-family: 'Roboto';
+	font-size: 40px;
+}
+.me{
+	font-size: 60px;
+	text-align: center;
+	font-family: 'Roboto';
+	color: white;
+}
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: white;
+  padding: 15px;
+}
+.box{
+  background-color: #2471A3;
+  border: 12px solid #2471A3;
+  padding: 136px;
+  font-size: 30px;
+  text-align: center;
+  background-image: url('PFol.png');
+  background-size: 100%;
+}
+.bxb{
+  background-color: #2471A3;
+  border-bottom: 12px solid #2471A3;
+  border-right: 12px solid #2471A3;
+  border-left: 12px solid #2471A3;
+  padding: 136px;
+  font-size: 30px;
+  text-align: center;
+  background-image: url('Ping.png');
+  background-size: 100%;
+}
+.bobr{
+  background-color: #2471A3;
+  border-bottom: 12px solid #2471A3;
+  border-right: 12px solid #2471A3;
+  padding: 136px;
+  font-size: 30px;
+  text-align: center;
+  background-image: url('Yo.png');
+  background-size: 100%;
+
+}
+.oxr{
+  background-color: #2471A3;
+  border-bottom: 12px solid #2471A3;
+  border-right: 12px solid #2471A3;
+  border-top: 12px solid #2471A3;
+  padding: 136px;
+  font-size: 30px;
+  text-align: center;
+  background-image: url('Ballz.png');
+  background-size: 100%;
+}
+.bxb:hover{
+	background-image: url('PingT.png');
+	background-size: 100%;
+}
+.box:hover{
+	background-image: url('PFolT.png');
+	background-size: 100%;
+}
+.bobr:hover{
+	background-image: url('YoT.png');
+	background-size: 100%;
+}
+.oxr:hover{
+	background-image: url('BallzT.png');
+	background-size: 100%;
+}
+.fot {
+	color: #2A2A2A;
+	text-align: center;
+	font-family: 'Roboto';
+	font-size: 12px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+
+}
+.okBoomer {
+	color: black;
+	font-family: 'Roboto';
+	margin-right: 40px;
+	margin-left: 40px;
+	font-size: 18px;
+	padding-bottom: 20px;
+}
+.gif {
+	max-width: 90%;
+	max-height:90%;
+	text-align: left;
+}
+.No {
+	color: black;
+	font-family: 'Roboto';
+	margin-right: 0px;
+	margin-left: 0px;
+	font-size: 50px;
+}
+.ok {
+		color: black;
+	font-family: 'Roboto';
+	margin-right: 0px;
+	margin-left: 0px;
+	font-size: 25px;
+	text-align: center;
+}
+.r {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 10px;
+	text-align: center;
+	padding-right: 20px;
+}
+.split {
+	display: flex;
+	justify-content: space-around
+}
+.Elect {
+	max-width:580px;
+	max-height:40%;
+	padding-bottom: 20px;
+}
+.shrink {
+	max-width:121.32px;
+	max-height:121.32px;
+	text-align: center;
+	padding-left: 10px;
+	padding-top: 10px;
+	}
+.shrinky {
+	max-width:121.32px;
+	max-height:121.32px;
+	text-align: center;
+	padding-left: 35px;
+	}
+.shrinkN {
+	text-align: center;
+	color: black;
+	font-family: 'Roboto';
+	font-size: 33px;
+	padding-right: 20px;
+	}
+.write {
+	font-family: 'Roboto';
+	font-size: 18px;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-align: center;
+}
+.pine {
+	
+	width: 100%;
+
+}
+.pineL {
+	width: 100%;	
+}
+.square {
+	padding: 0px;
+	border: 5px solid black;
+	margin: 10px;
+	float: right;
+	width: 430px;
+	background-color: black;
+	margin-right: 40px;
+}
+.squareL {
+	padding: 0px;
+	border: 5px solid black;
+	margin: 10px;
+	float: left;
+	width: 430px;
+	background-color: black;
+	margin-left: 40px;
+}
+.cap {
+	font-family: 'Roboto';
+	font-size: 15px;
+	padding-right: 2px;
+	padding-left: 2px;
+	text-align: center;
+	color: white;
+	}
+.roundy{
+	border: 5px solid #2471A3;
+	border-radius: 30px;
+	margin-top: 20px;
+ 	width: 150px;
+}
