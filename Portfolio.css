@@ -93,6 +93,7 @@ ul {
   text-align: center;
   background-image: url('PFol.PNG');
   background-size: 100%;
+height: 100%;
 }
 .bxb{
   background-color: #2471A3;
@@ -104,6 +105,7 @@ ul {
   text-align: center;
   background-image: url('Ping.png');
   background-size: 100%;
+	height: 100%;
 }
 .bobr{
   background-color: #2471A3;
@@ -114,6 +116,7 @@ ul {
   text-align: center;
   background-image: url('Yo.PNG');
   background-size: 100%;
+	height: 100%;
 
 }
 .oxr{
@@ -126,22 +129,27 @@ ul {
   text-align: center;
   background-image: url('Ballz.PNG');
   background-size: 100%;
+	height: 100%;
 }
 .bxb:hover{
 	background-image: url('PingT.png');
 	background-size: 100%;
+	height: 100%;
 }
 .box:hover{
 	background-image: url('PFolT.png');
 	background-size: 100%;
+	height: 100%;
 }
 .bobr:hover{
 	background-image: url('YoT.png');
 	background-size: 100%;
+	height: 100%;
 }
 .oxr:hover{
 	background-image: url('BallzT.png');
 	background-size: 100%;
+	height: 100%;
 }
 .fot {
 	color: #2A2A2A;
