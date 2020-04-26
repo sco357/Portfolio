@@ -245,11 +245,12 @@ ul {
 .squareL {
 	padding: 0px;
 	border: 5px solid black;
-	margin: 10px;
+	margin-right: 10px;
 	float: left;
 	width: 350px;
 	background-color: black;
 	margin-left: 40px;
+	margin-top: 3px;
 }
 .cap {
 	font-family: 'Roboto';
