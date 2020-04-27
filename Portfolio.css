@@ -148,7 +148,7 @@ ul {
 
 }
 .fot {
-	color: #2A2A2A;
+	color: white;
 	text-align: center;
 	font-family: 'Roboto';
 	font-size: 12px;
@@ -236,20 +236,20 @@ ul {
 }
 .square {
 	padding: 0px;
-	border: 5px solid black;
+	border: 5px solid #4E4E4E;
 	margin: 10px;
 	float: right;
 	width: 430px;
-	background-color: black;
+	background-color: #4E4E4E;
 	margin-right: 40px;
 }
 .squareL {
 	padding: 0px;
-	border: 5px solid black;
+	border: 5px solid #4E4E4E;
 	margin-right: 10px;
 	float: left;
 	width: 350px;
-	background-color: black;
+	background-color: #4E4E4E;
 	margin-left: 40px;
 	margin-top: 3px;
 }
