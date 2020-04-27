@@ -154,7 +154,9 @@ ul {
 	font-size: 12px;
 	margin-bottom: 0px;
 	padding-bottom: 0px;
-
+}
+.fot:hover{
+	color: orange;
 }
 .okBoomer {
 	color: black;
